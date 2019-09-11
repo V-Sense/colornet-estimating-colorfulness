@@ -9,7 +9,7 @@ This repository provides the code and the pre-trained models for the following p
    Emin Zerman*, Aakanksha Rana*, Aljosa Smolic
    IEEE International Conference on Image Processing (ICIP), Taipei, Taiwan, September 2019.
 ```
-* These authors contributed equally to this work.
+*These authors contributed equally to this work.
 
 You can find the paper on [IEEEXplore](https://ieeexplore.ieee.org/document/8803407/) servers and the preprint on our [project webpage](https://v-sense.scss.tcd.ie/research/deep-learning/colornet-estimating-colorfulness/) or on [arXiv](https://arxiv.org/abs/1908.08505).
 
